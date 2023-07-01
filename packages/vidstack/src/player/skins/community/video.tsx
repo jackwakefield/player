@@ -71,7 +71,6 @@ function DesktopUI() {
         <div part="controls-group">
           <div part="controls-spacer" />
           <ChaptersMenu />
-          <SettingsMenu />
         </div>
 
         <div part="controls-group"></div>

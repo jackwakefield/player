@@ -201,7 +201,7 @@ export function VideoGestures() {
 
 export function TimeSlider() {
   return (
-    <media-time-slider>
+    <media-time-slider keyStep="10">
       <div slot="preview">
         <media-slider-thumbnail />
         <div part="chapter-title" />
